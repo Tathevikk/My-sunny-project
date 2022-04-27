@@ -1,3 +1,3 @@
 import mysql.connector
 
-#helloooo my sunny project
+helloooo my sunny project
